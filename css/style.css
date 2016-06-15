@@ -1,0 +1,126 @@
+.marketing {
+	text-align: center;
+	margin-bottom: 20px;
+}
+.divider {
+	margin: 80px 0;
+}
+.thumbnail img{
+	width: 100%;
+}
+hr {
+	border: solid 1px #eee;
+}
+
+.homewares,.kids {
+	width: 400px;
+}
+.homewares-col1, .kids-col1 {
+	border-right : 1px dotted #ccc;
+}
+.homewares  li, .kids li{
+	line-height: 30px;
+}
+
+
+
+/*Brand*/
+	.navbar-header .page-scroll {
+		color: #fff ;
+		padding-top: 1px;
+	}
+	.icon-bar{
+		color: #fff !important;
+		background-color: #fff !important;
+	}
+/*Brand End*/
+
+
+
+/*Nav bar navbar-brand */	
+.navbar  {
+	background-color: #666;
+}
+	.navbar-brand  {
+		color: #fff !important;
+	}
+
+.style-text-color-cart-active a {
+	color: #fff !important;
+}
+.style-text-color-cart-disabled a {
+	color: #888 !important;
+}
+/*Nav bar navbar-brand End*/
+
+
+
+/*Nav bar dropdown */	
+	.style-text-color-dropdown a:link {
+		color: #fff !important;
+	}
+	.style-text-color-dropdown a:visited {
+		color: #fff !important;
+	}
+
+	.style-text-color-dropdown a:hover {
+		color: #000 !important;
+		text-decoration: none !important;
+	}
+
+	.style-text-color-dropdown a:active {
+		color: #000 !important;
+	} 
+/*Nav bar dropdown End*/
+
+
+	
+/*Nav bar submenu */	
+	.style-text-color a:link {
+		color: #000 !important;
+	}
+	.style-text-color a:visited {
+		color: #000 !important;
+	}
+
+	.style-text-color a:hover {
+		color: #8289A2 !important;
+		text-decoration: none !important;
+	}
+
+	.style-text-color a:active {
+		color: #000 !important;
+	} 
+/*Nav bar submenu End*/
+
+
+
+/*products btn*/
+.btn-details, .btn-details:active, .btn-details:visited, .btn-add, .btn-add:active, .btn-add:visited {
+    background-color: #BCC1D4 !important;
+	color: #666 !important;
+}
+.btn-details:hover, .btn-add:hover {
+    background-color: #9BA4B3 !important;
+	color: #fff !important;
+}
+/*products btn End*/
+
+
+
+/*viewcart */
+.panel-viewcart{
+	background-color: transparent;
+	border: 0px;
+	box-shadow: none;
+}
+
+.btn-continueShopping, .btn-continueShopping:active, .btn-continueShopping:visited {
+    background-color: #BCC1D4 !important;
+	color: #666 !important;
+}
+.btn-continueShopping:hover {
+    background-color: #9BA4B3 !important;
+	color: #fff !important;
+}
+/*viewcart End*/
